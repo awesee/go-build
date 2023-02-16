@@ -1,3 +1,3 @@
-module github.com/openset/go-build
+module github.com/awesee/go-build
 
-go 1.15
+go 1.16
